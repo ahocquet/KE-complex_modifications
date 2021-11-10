@@ -5,7 +5,7 @@
   ],
   "rules": [
     {
-      "description": "(Atom, CKII, EUIV, iTerm, muCommander, PyCharm, VSCodium, WebStorm, AndroidStudio) Function keys work as fn keys",
+      "description": "(Atom, CKII, EUIV, iTerm, muCommander, PyCharm, Rider, VSCode, VSCodium, WebStorm, AndroidStudio) Function keys work as fn keys",
       "manipulators": [
         {
           "type": "basic",
@@ -33,8 +33,12 @@
                 "com.github.atom",
                 "com.googlecode.iterm2",
                 "com.mucommander.muCommander",
+                "com.jetbrains.pycharm-EAP",
                 "com.jetbrains.pycharm",
+                "com.jetbrains.rider-EAP",
+                "com.jetbrains.rider",
                 "com.visualstudio.code.oss",
+                "com.microsoft.VSCode",
                 "com.jetbrains.WebStorm",
                 "com.google.android.studio"
               ]
@@ -67,8 +71,12 @@
                 "com.github.atom",
                 "com.googlecode.iterm2",
                 "com.mucommander.muCommander",
+                "com.jetbrains.pycharm-EAP",
                 "com.jetbrains.pycharm",
+                "com.jetbrains.rider-EAP",
+                "com.jetbrains.rider",
                 "com.visualstudio.code.oss",
+                "com.microsoft.VSCode",
                 "com.jetbrains.WebStorm",
                 "com.google.android.studio"
               ]
@@ -101,8 +109,12 @@
                 "com.github.atom",
                 "com.googlecode.iterm2",
                 "com.mucommander.muCommander",
+                "com.jetbrains.pycharm-EAP",
                 "com.jetbrains.pycharm",
+                "com.jetbrains.rider-EAP",
+                "com.jetbrains.rider",
                 "com.visualstudio.code.oss",
+                "com.microsoft.VSCode",
                 "com.jetbrains.WebStorm",
                 "com.google.android.studio"
               ]
@@ -135,9 +147,13 @@
                 "com.github.atom",
                 "com.googlecode.iterm2",
                 "com.mucommander.muCommander",
+                "com.jetbrains.pycharm-EAP",
                 "com.jetbrains.pycharm",
-                "com.visualstudio.code.oss",
+                "com.jetbrains.rider-EAP",
+                "com.jetbrains.rider",
                 "com.jetbrains.WebStorm",
+                "com.visualstudio.code.oss",
+                "com.microsoft.VSCode",
                 "com.google.android.studio"
               ]
             }
@@ -169,8 +185,12 @@
                 "com.github.atom",
                 "com.googlecode.iterm2",
                 "com.mucommander.muCommander",
+                "com.jetbrains.pycharm-EAP",
                 "com.jetbrains.pycharm",
+                "com.jetbrains.rider-EAP",
+                "com.jetbrains.rider",
                 "com.visualstudio.code.oss",
+                "com.microsoft.VSCode",
                 "com.jetbrains.WebStorm",
                 "com.google.android.studio"
               ]
@@ -203,8 +223,12 @@
                 "com.github.atom",
                 "com.googlecode.iterm2",
                 "com.mucommander.muCommander",
+                "com.jetbrains.pycharm-EAP",
                 "com.jetbrains.pycharm",
+                "com.jetbrains.rider-EAP",
+                "com.jetbrains.rider",
                 "com.visualstudio.code.oss",
+                "com.microsoft.VSCode",
                 "com.jetbrains.WebStorm",
                 "com.google.android.studio"
               ]
@@ -237,8 +261,12 @@
                 "com.github.atom",
                 "com.googlecode.iterm2",
                 "com.mucommander.muCommander",
+                "com.jetbrains.pycharm-EAP",
                 "com.jetbrains.pycharm",
+                "com.jetbrains.rider-EAP",
+                "com.jetbrains.rider",
                 "com.visualstudio.code.oss",
+                "com.microsoft.VSCode",
                 "com.jetbrains.WebStorm",
                 "com.google.android.studio"
               ]
@@ -271,8 +299,12 @@
                 "com.github.atom",
                 "com.googlecode.iterm2",
                 "com.mucommander.muCommander",
+                "com.jetbrains.pycharm-EAP",
                 "com.jetbrains.pycharm",
+                "com.jetbrains.rider-EAP",
+                "com.jetbrains.rider",
                 "com.visualstudio.code.oss",
+                "com.microsoft.VSCode",
                 "com.jetbrains.WebStorm",
                 "com.google.android.studio"
               ]
@@ -305,8 +337,12 @@
                 "com.github.atom",
                 "com.googlecode.iterm2",
                 "com.mucommander.muCommander",
+                "com.jetbrains.pycharm-EAP",
                 "com.jetbrains.pycharm",
+                "com.jetbrains.rider-EAP",
+                "com.jetbrains.rider",
                 "com.visualstudio.code.oss",
+                "com.microsoft.VSCode",
                 "com.jetbrains.WebStorm",
                 "com.google.android.studio"
               ]
@@ -339,8 +375,12 @@
                 "com.github.atom",
                 "com.googlecode.iterm2",
                 "com.mucommander.muCommander",
+                "com.jetbrains.pycharm-EAP",
                 "com.jetbrains.pycharm",
+                "com.jetbrains.rider-EAP",
+                "com.jetbrains.rider",
                 "com.visualstudio.code.oss",
+                "com.microsoft.VSCode",
                 "com.jetbrains.WebStorm",
                 "com.google.android.studio"
               ]
@@ -373,8 +413,12 @@
                 "com.github.atom",
                 "com.googlecode.iterm2",
                 "com.mucommander.muCommander",
+                "com.jetbrains.pycharm-EAP",
                 "com.jetbrains.pycharm",
+                "com.jetbrains.rider-EAP",
+                "com.jetbrains.rider",
                 "com.visualstudio.code.oss",
+                "com.microsoft.VSCode",
                 "com.jetbrains.WebStorm",
                 "com.google.android.studio"
               ]
@@ -407,8 +451,12 @@
                 "com.github.atom",
                 "com.googlecode.iterm2",
                 "com.mucommander.muCommander",
+                "com.jetbrains.pycharm-EAP",
                 "com.jetbrains.pycharm",
+                "com.jetbrains.rider-EAP",
+                "com.jetbrains.rider",
                 "com.visualstudio.code.oss",
+                "com.microsoft.VSCode",
                 "com.jetbrains.WebStorm",
                 "com.google.android.studio"
               ]
