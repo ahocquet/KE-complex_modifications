@@ -1,11 +1,11 @@
 {
-  "title": "Function keys work as fn keys (instead of media keys)",
+  "title": "Function keys work as fn keys (instead of media keys) in programming apps",
   "maintainers": [
-    "harmtemolder"
+    "ahocquet"
   ],
   "rules": [
     {
-      "description": "(Atom, CKII, EUIV, iTerm, muCommander, PyCharm, Rider, VSCode, VSCodium, WebStorm, AndroidStudio) Function keys work as fn keys",
+      "description": "Function keys work as fn keys in programming apps",
       "manipulators": [
         {
           "type": "basic",
@@ -151,9 +151,9 @@
                 "com.jetbrains.pycharm",
                 "com.jetbrains.rider-EAP",
                 "com.jetbrains.rider",
-                "com.jetbrains.WebStorm",
                 "com.visualstudio.code.oss",
                 "com.microsoft.VSCode",
+                "com.jetbrains.WebStorm",
                 "com.google.android.studio"
               ]
             }
